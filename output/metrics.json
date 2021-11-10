@@ -1,0 +1,1202 @@
+[
+ {
+  "measurement": "accuracy",
+  "epoch": 0,
+  "value": 0.5123600000000004,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 0,
+  "value": 0.939213120040893,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 0,
+  "value": 0.5727,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 0,
+  "value": 0.9178866044998167,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 1,
+  "value": 0.7076800000000002,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 1,
+  "value": 0.5829068525409707,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 1,
+  "value": 0.7576000000000005,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 1,
+  "value": 0.4945019629478453,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 2,
+  "value": 0.7860399999999997,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 2,
+  "value": 0.4306785172700884,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 2,
+  "value": 0.7825000000000001,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 2,
+  "value": 0.4508228523254398,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 3,
+  "value": 0.8341999999999998,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 3,
+  "value": 0.3344812986421586,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 3,
+  "value": 0.7973999999999997,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 3,
+  "value": 0.42597045845985404,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 4,
+  "value": 0.8719,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 4,
+  "value": 0.25917908869266526,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 4,
+  "value": 0.833,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 4,
+  "value": 0.37333441822528846,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 5,
+  "value": 0.9015400000000019,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 5,
+  "value": 0.19595370659828168,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 5,
+  "value": 0.8448000000000001,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 5,
+  "value": 0.36354354822635654,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 6,
+  "value": 0.93172,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 6,
+  "value": 0.1380596925634144,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 6,
+  "value": 0.8298000000000003,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 6,
+  "value": 0.4263204509735109,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 7,
+  "value": 0.9511799999999995,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 7,
+  "value": 0.09832852409273404,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 7,
+  "value": 0.8441,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 7,
+  "value": 0.42894199845790876,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 8,
+  "value": 0.964020000000001,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 8,
+  "value": 0.0749555210486055,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 8,
+  "value": 0.8427999999999998,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 8,
+  "value": 0.48395978918075566,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 9,
+  "value": 0.9691799999999995,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 9,
+  "value": 0.06318943740129475,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 9,
+  "value": 0.8470999999999997,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 9,
+  "value": 0.49161910562515265,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 10,
+  "value": 0.9741199999999998,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 10,
+  "value": 0.054445626794844895,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 10,
+  "value": 0.8340999999999997,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 10,
+  "value": 0.5230343670368193,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 11,
+  "value": 0.9792000000000008,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 11,
+  "value": 0.043830411900430834,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 11,
+  "value": 0.845799999999999,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 11,
+  "value": 0.5359469948530199,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 12,
+  "value": 0.9803400000000007,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 12,
+  "value": 0.04112287847444411,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 12,
+  "value": 0.8395999999999998,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 12,
+  "value": 0.5748734045982362,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 13,
+  "value": 0.9833800000000003,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 13,
+  "value": 0.03556891407996424,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 13,
+  "value": 0.8343999999999997,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 13,
+  "value": 0.6180210195779803,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 14,
+  "value": 0.9848199999999996,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 14,
+  "value": 0.03335460930250591,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 14,
+  "value": 0.8353999999999998,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 14,
+  "value": 0.5735967231512069,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 15,
+  "value": 0.98664,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 15,
+  "value": 0.02997812298595905,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 15,
+  "value": 0.8399,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 15,
+  "value": 0.6055971024990086,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 16,
+  "value": 0.9855000000000007,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 16,
+  "value": 0.031748393759131424,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 16,
+  "value": 0.8528,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 16,
+  "value": 0.5460184501647951,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 17,
+  "value": 0.9891399999999997,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 17,
+  "value": 0.024514414170682397,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 17,
+  "value": 0.8413999999999999,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 17,
+  "value": 0.6069982895612722,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 18,
+  "value": 0.988639999999999,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 18,
+  "value": 0.024788600100278835,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 18,
+  "value": 0.8442000000000004,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 18,
+  "value": 0.5925524103164669,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 19,
+  "value": 0.9887599999999993,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 19,
+  "value": 0.02474487513154746,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 19,
+  "value": 0.8521000000000006,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 19,
+  "value": 0.5568936622142794,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 20,
+  "value": 0.9911200000000012,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 20,
+  "value": 0.020630053597465163,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 20,
+  "value": 0.8499999999999993,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 20,
+  "value": 0.5871616380691527,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 21,
+  "value": 0.9904600000000006,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 21,
+  "value": 0.021032393355816605,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 21,
+  "value": 0.846099999999999,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 21,
+  "value": 0.5938600877046583,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 22,
+  "value": 0.9915000000000005,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 22,
+  "value": 0.019643052625507106,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 22,
+  "value": 0.8491999999999997,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 22,
+  "value": 0.5935413695335386,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 23,
+  "value": 0.9917400000000022,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 23,
+  "value": 0.018667591175064467,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 23,
+  "value": 0.8479,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 23,
+  "value": 0.6191918284893033,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 24,
+  "value": 0.991720000000001,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 24,
+  "value": 0.019213188279718192,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 24,
+  "value": 0.8424999999999998,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 24,
+  "value": 0.6144421570777895,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 25,
+  "value": 0.992899999999999,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 25,
+  "value": 0.01680509772144259,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 25,
+  "value": 0.8429,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 25,
+  "value": 0.6243491667032238,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 26,
+  "value": 0.99278,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 26,
+  "value": 0.016708083616644144,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 26,
+  "value": 0.8455999999999997,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 26,
+  "value": 0.6404907367706295,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 27,
+  "value": 0.9935799999999991,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 27,
+  "value": 0.014722902026474473,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 27,
+  "value": 0.8484999999999995,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 27,
+  "value": 0.6042735886573787,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 28,
+  "value": 0.9928599999999997,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 28,
+  "value": 0.015444470078423627,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 28,
+  "value": 0.8487999999999999,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 28,
+  "value": 0.6197052975654606,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 29,
+  "value": 0.9937399999999998,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 29,
+  "value": 0.014060868140459041,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 29,
+  "value": 0.8506000000000002,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 29,
+  "value": 0.595341737937927,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 30,
+  "value": 0.9932800000000004,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 30,
+  "value": 0.01531322534389794,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 30,
+  "value": 0.8414000000000006,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 30,
+  "value": 0.6740047727346422,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 31,
+  "value": 0.9952000000000009,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 31,
+  "value": 0.011962359992973515,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 31,
+  "value": 0.8588,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 31,
+  "value": 0.59165357298851,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 32,
+  "value": 0.9933999999999997,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 32,
+  "value": 0.015400899851918212,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 32,
+  "value": 0.8436999999999997,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 32,
+  "value": 0.6453092040061947,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 33,
+  "value": 0.9956600000000001,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 33,
+  "value": 0.01059905554518102,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 33,
+  "value": 0.8425999999999999,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 33,
+  "value": 0.6687745033740999,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 34,
+  "value": 0.9947800000000009,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 34,
+  "value": 0.01304767175555228,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 34,
+  "value": 0.8522999999999996,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 34,
+  "value": 0.586105907821656,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 35,
+  "value": 0.9957800000000002,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 35,
+  "value": 0.01058557878721505,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 35,
+  "value": 0.8560000000000005,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 35,
+  "value": 0.5997564582824705,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 36,
+  "value": 0.9947,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 36,
+  "value": 0.012565105686709285,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 36,
+  "value": 0.8487999999999997,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 36,
+  "value": 0.6270420186042789,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 37,
+  "value": 0.9955400000000009,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 37,
+  "value": 0.010761903125979003,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 37,
+  "value": 0.8478000000000001,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 37,
+  "value": 0.6648378794431682,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 38,
+  "value": 0.9947599999999999,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 38,
+  "value": 0.011970268695168176,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 38,
+  "value": 0.845,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 38,
+  "value": 0.691092176055908,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 39,
+  "value": 0.9955200000000002,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 39,
+  "value": 0.010614362184517091,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 39,
+  "value": 0.8557000000000002,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 39,
+  "value": 0.6040779343605043,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 40,
+  "value": 0.9964200000000005,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 40,
+  "value": 0.009190496902652095,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 40,
+  "value": 0.8388000000000002,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 40,
+  "value": 0.672309823846817,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 41,
+  "value": 0.9955200000000004,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 41,
+  "value": 0.01074326153632253,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 41,
+  "value": 0.8461,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 41,
+  "value": 0.6370046989202502,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 42,
+  "value": 0.99638,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 42,
+  "value": 0.008663429926075049,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 42,
+  "value": 0.8504999999999996,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 42,
+  "value": 0.6462041576385497,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 43,
+  "value": 0.9957600000000006,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 43,
+  "value": 0.010245258612930765,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 43,
+  "value": 0.8514000000000002,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 43,
+  "value": 0.6466567596912387,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 44,
+  "value": 0.9964400000000007,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 44,
+  "value": 0.008483786298334581,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 44,
+  "value": 0.8475999999999997,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 44,
+  "value": 0.6676555519104007,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 45,
+  "value": 0.9957799999999998,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 45,
+  "value": 0.01081289659999312,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 45,
+  "value": 0.8432000000000001,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 45,
+  "value": 0.6747021908283233,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 46,
+  "value": 0.9970200000000005,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 46,
+  "value": 0.007843153464868679,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 46,
+  "value": 0.8518000000000002,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 46,
+  "value": 0.653500861287117,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 47,
+  "value": 0.9959199999999999,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 47,
+  "value": 0.009838130853921174,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 47,
+  "value": 0.8496000000000001,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 47,
+  "value": 0.6389850426435473,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 48,
+  "value": 0.996160000000002,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 48,
+  "value": 0.009123314180336892,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 48,
+  "value": 0.8429,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 48,
+  "value": 0.6702477153778079,
+  "split": "test"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 49,
+  "value": 0.9977400000000006,
+  "split": "train"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 49,
+  "value": 0.0067019110475480545,
+  "split": "train"
+ },
+ {
+  "measurement": "accuracy",
+  "epoch": 49,
+  "value": 0.8530000000000005,
+  "split": "test"
+ },
+ {
+  "measurement": "cross_entropy",
+  "epoch": 49,
+  "value": 0.6266832879543306,
+  "split": "test"
+ }
+]

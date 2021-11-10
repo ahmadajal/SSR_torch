@@ -1,0 +1,17 @@
+{
+ "dataset": "Cifar10",
+ "optimizer": "Adam",
+ "optimizer_decay_at_epochs": [
+  80,
+  120
+ ],
+ "optimizer_decay_with_factor": 10.0,
+ "optimizer_learning_rate": 0.1,
+ "optimizer_momentum": 0.9,
+ "optimizer_weight_decay": 0.0001,
+ "batch_size": 32,
+ "num_epochs": 50,
+ "seed": 42,
+ "alpha": 0.3,
+ "scale": 1.0
+}
